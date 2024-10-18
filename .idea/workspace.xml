@@ -4,85 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8f9b03-fe07-4f00-80fd-f2d2e661f08b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/In.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/NBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/audio/2001.mid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/3body.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/8star-rotation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/antimatter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/armageddon.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/atom.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/awesome.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/binary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/binaryStars.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/bowling.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/chaosblossom.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/dance10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/entropy-universe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/fourellipses.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/galaxy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/hypnosis.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/illusion.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/its-a-trap.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/kaleidoscope.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/kevin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/massive-squirrel-battle.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/planets-elliptical.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/planets.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/planetsparty.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/pluto.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/quad-stars.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/renegade.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/sbh2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/sbh3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/soap-opera.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/spiral.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/suninterference.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/twin-binaries.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/uniform100.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/uniform3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/uniform8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/acorn-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/acorn3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/asteroid.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/ball.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/blackhole.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/death_star.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/earth.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/electron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/endor.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/goodbye.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/imback.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/its_a_trap.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/jupiter.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/kevin.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/mars.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/mercury.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/neptune.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/ninjasquirrel_red.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/nucleus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/pin.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/pluto.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/rebel_cruiser.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/saturn.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/squirrel.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/star.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/star_destroyer.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/starfield.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/sun.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/uranus.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/venus.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestReadPlanets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestReadRadius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestUpdate.java" afterDir="false" />
+    <list default="true" id="da8f9b03-fe07-4f00-80fd-f2d2e661f08b" name="Changes" comment="NBody">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/Planet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestCalcDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestCalcDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestCalcForceExertedBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestCalcForceExertedBy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestCalcForceExertedByXY.java" beforeDir="false" afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestCalcForceExertedByXY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestCalcNetForceExertedByXY.java" beforeDir="false" afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestCalcNetForceExertedByXY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestPlanetConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestPlanetConstructor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,6 +159,15 @@
       <updated>1729065588064</updated>
       <workItem from="1729065589145" duration="10922000" />
     </task>
+    <task id="LOCAL-00001" summary="NBody">
+      <option name="closed" value="true" />
+      <created>1729239824336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729239824336</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,5 +195,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NBody" />
+    <option name="LAST_COMMIT_MESSAGE" value="NBody" />
   </component>
 </project>
