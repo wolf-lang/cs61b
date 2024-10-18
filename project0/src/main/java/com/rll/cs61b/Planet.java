@@ -97,4 +97,15 @@ public class Planet {
         }
         return fy;
     }
+
+    void update(double dt, double fx, double fy ) {
+        double aNetX = fx / this.mass;
+        double aNetY = fy / this.mass;
+
+        this.xxVel = this.xxVel + dt * aNetX;
+        this.yyVel = this.yyVel + dt * aNetY;
+
+        this.xxPos = this.xxPos + dt * this.xxVel;
+        this.yyPos = this.yyPos + dt * this.yyVel;
+    }
 }

@@ -1,7 +1,5 @@
 package com.rll.cs61b;
 
-import java.math.*;
-
 /**
  *  Tests calcForceExertedBy
  */

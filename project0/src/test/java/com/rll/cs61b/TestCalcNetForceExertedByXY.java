@@ -1,6 +1,7 @@
 package com.rll.cs61b;
 
-import java.math.*;
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 
 /**
  *  Tests calcNetForceExertedByXY

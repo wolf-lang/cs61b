@@ -5,20 +5,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da8f9b03-fe07-4f00-80fd-f2d2e661f08b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestCalcDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestCalcForceExertedBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestCalcForceExertedByXY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestCalcNetForceExertedByXY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestPlanetConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/In.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/NBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/audio/2001.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/3body.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/8star-rotation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/antimatter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/armageddon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/atom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/awesome.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/binary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/binaryStars.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/bowling.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/chaosblossom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/dance10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/entropy-universe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/fourellipses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/galaxy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/hypnosis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/illusion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/its-a-trap.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/kaleidoscope.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/kevin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/massive-squirrel-battle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/planets-elliptical.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/planets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/planetsparty.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/pluto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/quad-stars.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/renegade.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/sbh2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/sbh3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/soap-opera.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/spiral.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/suninterference.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/twin-binaries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/uniform100.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/uniform3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/data/uniform8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/acorn-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/acorn3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/asteroid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/ball.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/blackhole.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/death_star.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/earth.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/electron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/endor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/goodbye.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/imback.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/its_a_trap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/jupiter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/kevin.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/mars.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/mercury.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/neptune.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/ninjasquirrel_red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/nucleus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/pin.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/pluto.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/rebel_cruiser.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/saturn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/squirrel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/star.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/star_destroyer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/starfield.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/sun.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/uranus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/images/venus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestReadPlanets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestReadRadius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestCalcDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestCalcDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestCalcForceExertedBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestCalcForceExertedBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestCalcForceExertedByXY.java" beforeDir="false" afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestCalcForceExertedByXY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestCalcNetForceExertedByXY.java" beforeDir="false" afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestCalcNetForceExertedByXY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b/TestPlanetConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b/TestPlanetConstructor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +105,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2nVkMre0QhfEsUjJ17wROFUBULe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -58,7 +122,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/Users/wolflang/IdeaProjects/cs61b/project0/src/main/java/com/rll/cs61b",
+    "last_opened_file_path": "/Users/wolflang/IdeaProjects/cs61b/project0/src/test/java/com/rll/cs61b",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,25 +133,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project0/src/test/java/com/rll/cs61b" />
       <recent name="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rll.cs61b" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.TestCalcForceExertedByXY">
-    <configuration name="TestCalcDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rll.cs61b.TestCalcDistance" />
-      <module name="project0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rll.cs61b.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCalcForceExertedBy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rll.cs61b.TestCalcForceExertedBy" />
+  <component name="RunManager" selected="Application.TestReadPlanets">
+    <configuration name="In" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rll.cs61b.In" />
       <module name="project0" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +167,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPlanetConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rll.cs61b.TestPlanetConstructor" />
+    <configuration name="TestReadPlanets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rll.cs61b.TestReadPlanets" />
+      <module name="project0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rll.cs61b.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestReadRadius" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rll.cs61b.TestReadRadius" />
+      <module name="project0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project0/src/main/java/com/rll/cs61b" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rll.cs61b.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rll.cs61b.TestUpdate" />
       <module name="project0" />
       <extension name="coverage">
         <pattern>
@@ -125,12 +208,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.TestReadPlanets" />
+      <item itemvalue="Application.In" />
+      <item itemvalue="Application.TestCalcForceExertedByXY" />
+      <item itemvalue="Application.TestReadRadius" />
+      <item itemvalue="Application.TestUpdate" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestReadPlanets" />
+        <item itemvalue="Application.TestReadRadius" />
+        <item itemvalue="Application.In" />
+        <item itemvalue="Application.TestUpdate" />
         <item itemvalue="Application.TestCalcForceExertedByXY" />
-        <item itemvalue="Application.TestCalcForceExertedBy" />
-        <item itemvalue="Application.TestCalcDistance" />
-        <item itemvalue="Application.TestPlanetConstructor" />
       </list>
     </recent_temporary>
   </component>
