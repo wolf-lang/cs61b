@@ -93,7 +93,7 @@ public class Planet {
     double calcNetForceExertedByY(Planet[] planets) {
         double fy = 0f;
         for (Planet planet : planets) {
-            fy += calcForceExertedByX(planet);
+            fy += calcForceExertedByY(planet);
         }
         return fy;
     }
@@ -107,5 +107,22 @@ public class Planet {
 
         this.xxPos = this.xxPos + dt * this.xxVel;
         this.yyPos = this.yyPos + dt * this.yyVel;
+    }
+
+    void draw() {
+        StdDraw.picture(this.xxPos, this.yyPos, "images/" + this.imgFileName);
+    }
+
+
+    @Override
+    public String toString() {
+        return "Planet{" +
+                "xxPos=" + xxPos +
+                ", yyPos=" + yyPos +
+                ", xxVel=" + xxVel +
+                ", yyVel=" + yyVel +
+                ", mass=" + mass +
+                ", imgFileName='" + imgFileName + '\'' +
+                '}';
     }
 }

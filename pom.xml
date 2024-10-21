@@ -6,6 +6,7 @@
   <packaging>pom</packaging>
   <modules>
     <module>project0</module>
+      <module>project1A</module>
   </modules>
   <version>1.0-SNAPSHOT</version>
   <name>cs61b</name>
